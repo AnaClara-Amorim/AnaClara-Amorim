@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Ana Clara... and I'm a studant of technology</h2>
+<h2 align="left">Hi 👋! My name is Ana Clara and I'm a studant of technology</h2>
 
 ###
 
